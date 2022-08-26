@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tae-min Jung
+title: Tae-min Joung
 ---
 
-## Tae-min Jung (정태민)
+## Tae-min Joung (정태민)
 ![alt_text](../assets/img/profile_TaeminJung.png)
 
 
