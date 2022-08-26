@@ -24,7 +24,7 @@ title: People
 * [Wenchong Zhao](./WenchongZhao)
 * [Qiuhong Jin](./QiuhongJin)
 * [Geunyeong Go](./GeunyeongGo)
-* [Tae-min Jung](./TaeminJung)
+* [Tae-min Joung](./TaeminJoung)
 
 ### B.S Course
 * [Minwhoan Kim](./MinwhoanKim)
