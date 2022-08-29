@@ -36,6 +36,12 @@ title: Research
 
 
 ## Natural Language Processsing AI Area
+- Natual Language Processing is one of the main fields of artificial intelligence that studies human language phenomena to be described using machines such as computers
+- The DMS AI Assistant team is currently researching about
+	- Open-Domain/Open-Book Question Answering
+	- Assistant Chatbot for the Silver Generation
+	- Bible Domain Question Answering
+	- Question Generation using Keyword Extraction
 <br/>
 
 ## Deep Learning AI Area
